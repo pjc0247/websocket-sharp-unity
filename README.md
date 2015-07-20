@@ -1,5 +1,7 @@
 ![Logo](websocket-sharp_logo.png)
 
+* 유니티 환경에서 recv 받으면 터지는 버그 수정 버전
+
 ## Welcome to websocket-sharp! ##
 
 **websocket-sharp** supports:
